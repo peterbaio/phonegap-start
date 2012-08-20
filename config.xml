@@ -4,7 +4,7 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "2.0.0">
 
-	<name>First App Test</name>
+	<name>First MSH App Test</name>
 
 	<description>
 		Starting to test out phonegap.
